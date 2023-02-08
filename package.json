@@ -1,5 +1,5 @@
 {
-    "name": "quill-image-uploader",
+    "name": "quill-image-uploader-angular",
     "version": "1.2.4",
     "repository": "https://github.com/noeloconnell/quill-image-uploader.git",
     "description": "A module for Quill rich text editor to allow images to be uploaded to a server instead of being base64 encoded",
@@ -22,7 +22,7 @@
         "image",
         "upload"
     ],
-    "author": "",
+    "author": "inloox-dev",
     "license": "MIT",
     "devDependencies": {
         "babel-core": "6.26.3",
